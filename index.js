@@ -1,4 +1,5 @@
 // Code your solution in this file!
 const companyName = 'Scuber';
 var mostProfitableNeighborhood = "Chelsea";
-mostProfitableNeighborhood = "Upper West Side";
+
+"Upper West Side" = "Chelsea";
