@@ -2,4 +2,3 @@
 const companyName = 'Scuber';
 var mostProfitableNeighborhood = "Chelsea";
 
-"Upper West Side" = "Chelsea";
